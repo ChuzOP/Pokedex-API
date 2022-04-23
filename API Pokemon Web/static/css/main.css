@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;600&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;600&family=Mukta:wght@300&family=Oswald&display=swap');
 body{
-    background: linear-gradient(225deg, rgb(169, 175, 187), rgb(131, 88, 231), rgb(226, 219, 151));
+    background: linear-gradient(225deg, rgb(156, 159, 196), rgb(209, 190, 214), rgb(122, 145, 194));
 }
 h2{
     font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Mukta', sans-serif;
+    margin: 0;
 }
 header{
     background-color: rgb(226, 22, 39);
